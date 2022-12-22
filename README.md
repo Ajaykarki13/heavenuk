@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heavenuk
+- 👋 Hi, I’m @ajaykarki
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...
